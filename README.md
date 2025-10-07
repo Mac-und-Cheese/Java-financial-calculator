@@ -24,7 +24,7 @@ SolvencyRatios.java ---— Calculates solvency ratios.
 main.java —--- No actual content include. Just run it.
 
 # How to Use
-1. Download all the Java files.
+1. Download all the Java files. (only files end with .java)
 2. Compile the files using a Java compiler.
 3. Run "main.java" to start the program. (For some computer, you may need to do it in your terminal instead)
 4. Follow the instructions displayed after the program starts.
